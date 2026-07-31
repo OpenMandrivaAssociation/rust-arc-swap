@@ -6,8 +6,8 @@
 %global crate arc-swap
 
 Name:           rust-%{crate}
-Version:        0.4.4
-Release:        2%{?dist}
+Version:        1.9.2
+Release:        1%{?dist}
 Summary:        Atomically swappable Arc
 
 # Upstream license specification: Apache-2.0/MIT
